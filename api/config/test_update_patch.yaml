@@ -1,0 +1,6 @@
+req: 'users/2'
+status_code: 200
+body: {
+    "name": "morpheus",
+    "job": "zion resident"
+}

@@ -1,0 +1,4 @@
+req: 'users'
+data_id: 'post'
+status_code: 201
+body: {"name": "morpheus", "job": "leader"}

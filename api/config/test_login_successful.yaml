@@ -1,0 +1,4 @@
+req: 'login'
+status_code: 200
+body: {"email": "eve.holt@reqres.in", "password": "cityslicka"}
+response: {"token": "QpwL5tke4Pnpja7X4"}

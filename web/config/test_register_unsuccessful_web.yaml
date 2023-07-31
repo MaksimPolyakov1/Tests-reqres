@@ -1,0 +1,5 @@
+req: 'register'
+data_id: 'register-unsuccessful'
+status_code: 400
+body: {"email": "sydney@fife"}
+response: {"error": "Missing password"}

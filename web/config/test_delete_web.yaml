@@ -1,0 +1,4 @@
+req: 'users/2'
+data_id: 'delete'
+status_code: 204
+response: ''

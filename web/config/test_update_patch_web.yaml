@@ -1,0 +1,7 @@
+req: 'users/2'
+data_id: 'patch'
+status_code: 200
+body: {
+    "name": "morpheus",
+    "job": "zion resident"
+}

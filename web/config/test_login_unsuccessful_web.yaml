@@ -1,0 +1,5 @@
+req: 'login'
+data_id: 'login-unsuccessful'
+status_code: 400
+body: {"email": "peter@klaven"}
+response: {"error": "Missing password"}
